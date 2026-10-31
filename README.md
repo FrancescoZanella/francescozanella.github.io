@@ -9,7 +9,6 @@ segreti e senza raccolta di dati.
 | `Bankrelay/app/privacy.html` | `https://francescozanella.github.io/Bankrelay/app/privacy.html` | informativa privacy |
 | `Bankrelay/app/termini.html` | `https://francescozanella.github.io/Bankrelay/app/termini.html` | termini di utilizzo |
 | `.well-known/assetlinks.json` | `https://francescozanella.github.io/.well-known/assetlinks.json` | App Link verificato: il ritorno dalla banca apre direttamente l'app firmata |
-| `Bankrelay/index.html` | `https://francescozanella.github.io/Bankrelay/` | pagina di ritorno precedente, lasciata invariata |
 
 `.nojekyll` serve perché GitHub pubblichi la cartella `.well-known`.
 
